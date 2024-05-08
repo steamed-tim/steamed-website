@@ -1,7 +1,7 @@
 baseURL = 'http://timduong.me'
 languageCode = 'en-us'
 title = 'Timothy Duong'
-theme = 'hermit-v2"
+theme = "hermit-v2"
 
 
 #[languages]
@@ -20,10 +20,7 @@ theme = 'hermit-v2"
 #    [languages.it.params]
 #      homeSubtitle = "CHANGE ME"
 #    weight = 3
- 
-languageCode = "en-us"
 
-# title = "CHANGE ME"
 # enableGitInfo = true
 
 pygmentsCodefences  = true
@@ -49,8 +46,8 @@ expiryDate = ["expiryDate"]
 
 
 [params.author]
-  name = "CHANGE SITE AUTHOR"
-  about = "CHANGE SITE AUTHOR ABOUT"
+  name = "Timothy Duong"
+  about = "Personal Website for Timothy Duong"
 
 [blackfriday]
   # hrefTargetBlank = true
@@ -81,10 +78,10 @@ expiryDate = ["expiryDate"]
 
   # description = "CHANGE ME SITE DESCRIPTION"
   # images = [""]
-  themeColor = "#494f5c"
+  themeColor = "#292f3c"
 
   #homeSubtitle = "CHANGE ME HOME SUBTITLE"
-  footerCopyright = "CHANGE ME FOOTER COPYRIGHT"
+  footerCopyright = "Timothy Duong 2024"
   # bgImg = ""
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
@@ -97,7 +94,7 @@ expiryDate = ["expiryDate"]
   scrollToTop = true 
   global_mathjax = false
   readTime = true
-  readTimeSeparator = "CHANGE ME READ TIME"
+  readTimeSeparator = "-"
   # legacyLayout = false
   shareSocial = true
   # googleTagManager = "GTM-XXXXXXXX"
